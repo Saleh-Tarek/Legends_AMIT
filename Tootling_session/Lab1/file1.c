@@ -7,7 +7,7 @@
 	#include <stdio.h>
 	void MyPrint( unsigned short int Copy_uint16_tVar )
 	{
-		printf("The output is:\n\t%hu",Copy_uint16_tVar);
+		printf("The output is:\n\t%hu\n",Copy_uint16_tVar);
 
 	
 	}
